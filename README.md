@@ -62,3 +62,12 @@ This repository presents an end-to-end **Cyber Risk Assessment Report** conducte
 | **Phase 2: High-Priority Hardening** | **Short Term**<br>(1–3 Months) | **RS-01** (Web Server DDoS)<br>**RS-03** (Storage Ransomware)<br>**RS-04** (SQL Injection)<br>**RS-10** (Router Management Brute Force) | • Integrate upstream DDoS mitigation/CDN and traffic rate-limiting[cite: 1]<br>• Implement immutable, offline tested backups and Endpoint Detection & Response (EDR)[cite: 1]<br>• Deploy Web Application Firewall (WAF) and enforce parameterized database queries[cite: 1]<br>• Restrict core router management access via Out-of-Band (OOB) ACLs and MFA[cite: 1] | Network Administrator /<br>IT Infrastructure Team /<br>Database Administrator[cite: 1] |
 | **Phase 3: Network & Endpoint Controls** | **Medium Term**<br>(3–6 Months) | **RS-05** (Wireless MitM)<br>**RS-06** (LAN Malware Spread)<br>**RS-11** (Social Engineering)<br>**RS-08** (Firewall Zero-Day Exposure) | • Upgrade wireless infrastructure to WPA2/WPA3-Enterprise 802.1X authentication[cite: 1]<br>• Implement internal VLAN network segmentation and Network Access Control (NAC)[cite: 1]<br>• Enforce endpoint software execution policies and formal call-back verification procedures[cite: 1]<br>• Establish strict patch-management cadences and vendor threat-intelligence feeds[cite: 1] | Network Administrator /<br>IT Security Team[cite: 1] |
 | **Phase 4: Routine Oversight & Monitoring** | **Routine & Ongoing**<br>(6–12 Months) | **RS-09** (VoIP Telephony Interception)<br>**RS-12** (Shared Printer Interception)<br>All Accepted Residuals | • Segregate VoIP/data VLANs and enable call-access logging[cite: 1]<br>• Isolate shared printer on a dedicated management VLAN with secure/pull printing[cite: 1]<br>• Conduct scheduled semi-annual risk register reviews, quarterly backup-restore tests, and annual penetration testing[cite: 1] | IT Infrastructure Team /<br>System Administrator[cite: 1] |
+
+
+## 👤 Assessment Lead
+
+Anas Faozi Abdullah Al-Abi
+
+[cite: 1]
+
+Lead Cyber Risk Auditor, Internal Cyber Audit Team[cite: 1]
