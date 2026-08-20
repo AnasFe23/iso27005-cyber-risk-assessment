@@ -41,7 +41,7 @@ This repository presents an end-to-end **Cyber Risk Assessment Report** conducte
    ├── Cisco IP Telephony (VoIP)                               └── IBM Power S1014 App Server (HW-03)
    └── HP LaserJet Shared Printer
 ```
-🔍 Methodology & 6-Phase Risk Lifecycle (ISO/IEC 27005)Context Establishment: 
+## 🔍 Methodology & 6-Phase Risk Lifecycle (ISO/IEC 27005)Context Establishment: 
 
 1. Defined scope across 5 asset tiers (Hardware, Software, Data, Network, Services), evaluated multi-jurisdictional compliance mandates (PDPA, GDPR), and established $5 \times 5$ Likelihood/Impact rating criteria.
 2. Risk Identification: Catalogued 12 threat sources, 12 vulnerabilities, and structured 12 comprehensive risk scenarios (RS-01 to RS-12).
